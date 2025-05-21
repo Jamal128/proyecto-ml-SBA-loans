@@ -35,22 +35,7 @@ El proyecto sigue un workflow completo de Machine Learning, incluyendo:
 
 El código y los recursos del proyecto están organizados de la siguiente manera:
 ProyectoML-SBA/
-├── src/
-│   ├── utils/                # Módulos y funciones auxiliares.
-│   ├── data/                 # Datasets de entrenamiento (dividido) y prueba.
-│   │   ├── train_part1.csv   # Primera parte del conjunto de entrenamiento.
-│   │   ├── train_part2.csv   # Segunda parte del conjunto de entrenamiento.
-│   │   └── test.csv          # Conjunto de prueba.
-│   ├── notebooks/            # Jupyter Notebooks para EDA, preprocesamiento e iteraciones del modelo.
-│   ├── memoria.ipynb         # Notebook limpio que resume el proyecto (memoria técnica).
-│   ├── model/                # Modelos entrenados.
-│   │   └── production/       # Aquí debería ir el modelo elegido para producción.
-│   └── resources/            # Recursos adicionales (imágenes, archivos de Tableau, etc.).
-│       ├── img/              # Imágenes para la memoria o visualizaciones.
-│       └── tableau/          # Archivos de Tableau (si aplica).
-├── .gitignore                # Archivo para ignorar ficheros no deseados en Git.
-├── README.md                 # Este archivo.
-├── requirements.txt          # Dependencias del proyecto.
+<img width="515" alt="image" src="https://github.com/user-attachments/assets/256d680e-ec2b-41d6-bdf4-d57b7246a5cd" />
 
 ## ⚠️ Nota Importante sobre el Modelo Principal
 
