@@ -1,4 +1,5 @@
 # Proyecto de Machine Learning: Predicción de Incumplimiento de Préstamos SBA
+![image](https://github.com/user-attachments/assets/00422869-a209-45c1-8d2f-8014914cecfc)
 
 ## 📚 Descripción del Proyecto
 
